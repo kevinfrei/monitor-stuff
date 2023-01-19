@@ -7,3 +7,6 @@
 [submodule "display-switch"]
 	path = display-switch
 	url = https://github.com/haimgel/display-switch.git
+[submodule "m1ddc"]
+	path = m1ddc
+	url = https://github.com/waydabber/m1ddc.git
