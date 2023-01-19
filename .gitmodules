@@ -1,0 +1,9 @@
+[submodule "USBKVM"]
+	path = USBKVM
+	url = https://github.com/NedWilbur/USBKVM.git
+[submodule "MonitorControl"]
+	path = MonitorControl
+	url = https://github.com/MonitorControl/MonitorControl.git
+[submodule "display-switch"]
+	path = display-switch
+	url = https://github.com/haimgel/display-switch.git
