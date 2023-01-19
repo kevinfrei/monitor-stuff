@@ -10,3 +10,9 @@
 [submodule "m1ddc"]
 	path = m1ddc
 	url = https://github.com/waydabber/m1ddc.git
+[submodule "winddcutil"]
+	path = winddcutil
+	url = https://github.com/scottaxcell/winddcutil.git
+[submodule "ddc-windows"]
+	path = ddc-windows
+	url = https://github.com/ChristopherHammond13/ddc-windows
